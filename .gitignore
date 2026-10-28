@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+
+ecommerce.db
+online_retail_staging.csv
+online_retail_raw_data.xlsx
+
+.env
+.vscode/
